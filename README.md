@@ -1,1 +1,1 @@
-Tarefa EBAC jQuEry plugins
+Tarefa EBAC jQuery plugins

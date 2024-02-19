@@ -1,1 +1,1 @@
-Tarefa eba jQuary plugins
+Tarefa EBAC jQuEry plugins
